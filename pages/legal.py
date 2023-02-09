@@ -1,2 +1,2 @@
 import streamlit as st
-st.markdown("Legal page")
+st.markdown("Legal page ...")
