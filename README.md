@@ -1,1 +1,1 @@
-# mindguru
+Simple website for mindguru.me
